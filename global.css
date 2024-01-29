@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+  overflow: hidden;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-poppins: Poppins;
+  --font-lexend-peta: "Lexend Peta";
+
+  /* Colors */
+  --color-white: #fff;
+}
+
+@media screen and (max-width: 768px) {
+  .almost-there {
+    /* Adjust styles for smaller screens */
+    top: 200px;
+    left: 10px;
+    /* Add more adjustments as needed */
+  }
+
+  .irl-trading {
+    /* Adjust styles for smaller screens */
+    top: 180px;
+    left: 20px;
+    /* Add more adjustments as needed */
+  }
+
+  /* Add more media query adjustments for other elements as needed */
+}

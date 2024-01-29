@@ -1,0 +1,129 @@
+.vector-53862fb7d1svg-fill-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+}
+.almost-there,
+.irl-trading {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.almost-there {
+  top: 437px;
+  left: 689.5px;
+  line-height: 72px;
+  font-weight: 800;
+  width: 541.3px;
+  height: 70px;
+}
+.irl-trading {
+  top: 413px;
+  left: 701px;
+  font-size: 15px;
+  letter-spacing: 0.14em;
+  line-height: 46px;
+  font-family: var(--font-lexend-peta);
+  width: 163px;
+  height: 37px;
+}
+.span {
+  color: #6236ff;
+}
+.were-bringing-you {
+  color: var(--color-white);
+}
+.get-ready-were-container1 {
+  width: 100%;
+}
+.get-ready-were-container {
+  position: absolute;
+  top: 528px;
+  left: 689.5px;
+  font-size: 20px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  width: 511px;
+  height: 56px;
+  color: #38ffe7;
+  font-family: var(--font-poppins);
+}
+.link-button,
+.socials {
+  position: absolute;
+  cursor: pointer;
+}
+.socials {
+  top: 8px;
+  left: 17px;
+  line-height: 72px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 65px;
+  height: 20px;
+}
+.link-button {
+  top: 608px;
+  left: 689px;
+  border-radius: 4px;
+  background-color: rgba(56, 255, 231, 0.74);
+  width: 100px;
+  height: 36px;
+  text-align: center;
+  font-size: 14px;
+}
+.hi,
+.main {
+  width: 100%;
+  height: 1080px;
+}
+.main {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.hi {
+  position: relative;
+  background-color: #090909;
+  text-align: left;
+  font-size: 72px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media only screen and (max-width: 768px) {
+  .hi {
+    font-size: 48px; /* Adjust the font size for smaller screens */
+  }
+
+  .almost-there {
+    top: 200px; /* Adjust positioning for smaller screens */
+    left: 20px;
+    width: 80%; /* Adjust width for smaller screens */
+  }
+
+  .irl-trading {
+    top: 180px; /* Adjust positioning for smaller screens */
+    left: 20px;
+    font-size: 14px; /* Adjust font size for smaller screens */
+    line-height: 24px; /* Adjust line height for smaller screens */
+  }
+
+  .get-ready-were-container {
+    top: 300px; /* Adjust positioning for smaller screens */
+    left: 20px;
+    font-size: 16px; /* Adjust font size for smaller screens */
+    width: 80%; /* Adjust width for smaller screens */
+  }
+
+  .link-button {
+    top: 400px; /* Adjust positioning for smaller screens */
+    left: 20px;
+  }
+}
